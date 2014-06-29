@@ -1,0 +1,6 @@
+# All Package Control files except .sublime-settings
+*Package Control.*
+!Package Control.sublime-settings
+
+# Compiled python
+*.pyc

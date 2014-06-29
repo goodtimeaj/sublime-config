@@ -1,0 +1,53 @@
+{
+	"binary_file_patterns":
+	[
+    ".git/*",
+    ".hg/*",
+    ".svn/*",
+    "node_modules/*",
+    ".sass-cache/*",
+		"tags",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns":
+  [
+  ],
+	"fold_buttons": false,
+	"font_size": 14,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"JavaScript"
+	],
+	"margin": 14,
+	"remember_open_files": false,
+	"rulers":
+	[
+	],
+	"scroll_speed": 1.4,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true,
+	"wrap_width": 0
+}
