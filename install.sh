@@ -2,7 +2,7 @@
 # Installs Package Control and runs `export.sh`.
 
 here=$(dirname "$0") && here=$(cd "$here" && pwd -P)
-sublime_text_packages_path="${HOME}/Library/Application Support/Sublime Text 2/Installed Packages"
+sublime_text_packages_path="${HOME}/Library/Application Support/Sublime Text 3/Installed Packages"
 
 # Install Sublime Text Package Control to the default location if not yet
 # installed
